@@ -24,11 +24,11 @@
     
     <context-param>
         <param-name>primefaces.PUBLIC_CAPTCHA_KEY</param-name>
-        <param-value>6Ld2SN0UAAAAAIUOrDlG9jfzCeqromh6kfziMF5d</param-value>
+        <param-value>6Ld2SN0UAAAAAIUOrDlG9jfz</param-value>
     </context-param>
     <context-param>
         <param-name>primefaces.PRIVATE_CAPTCHA_KEY</param-name>
-        <param-value>6Ld2SN0UAAAAAOn7p3k7lfWdO3JTsS9eD5XSr1r-</param-value>
+        <param-value>6Ld2SN0UAAAAAOn7p3k7lfWdO3</param-value>
     </context-param>
     <listener>
         <listener-class>com.sun.faces.config.ConfigureListener</listener-class>
